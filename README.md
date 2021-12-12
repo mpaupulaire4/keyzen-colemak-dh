@@ -28,14 +28,14 @@ Aside from my added features, I modified also the default sound files for correc
 
 ## Hosted Version
 If you're online, you could access it here:
-https://ranelpadon.github.io/keyzen-colemak-dh/
+https://mpaupulaire4.github.io/keyzen-colemak-dh/
 
 
 ## Local Version/Installation
 If you're offline, or GitHub Pages is not accessible, or want to modify some parts and run it locally, you could easily do that using a local web server. Here are samples using the mainstream Python/PHP utilities:
 
 
-1. [Download the repo](https://github.com/ranelpadon/keyzen-colemak-dh/archive/master.zip) and unzip it in your local.
+1. [Download the repo](https://github.com/mpaupulaire4/keyzen-colemak-dh/archive/master.zip) and unzip it in your local.
 
 2. Go to the unzipped folder, and start the local server.
     - Python
